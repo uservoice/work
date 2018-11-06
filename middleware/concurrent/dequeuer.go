@@ -2,7 +2,7 @@ package concurrent
 
 import (
 	"github.com/go-redis/redis"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 // DequeuerOptions defines how many jobs in the same queue can be running at the same time.

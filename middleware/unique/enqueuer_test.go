@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-redis/redis"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 func newRedisClient() *redis.Client {

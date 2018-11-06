@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 func TestHandleFuncLogger(t *testing.T) {

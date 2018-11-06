@@ -1,7 +1,7 @@
 # gocraft/work v2
 
-[![GoDoc](https://godoc.org/github.com/taylorchu/work?status.png)](https://godoc.org/github.com/taylorchu/work)
-[![Go Report Card](https://goreportcard.com/badge/github.com/taylorchu/work)](https://goreportcard.com/report/github.com/taylorchu/work)
+[![GoDoc](https://godoc.org/github.com/uservoice/work?status.png)](https://godoc.org/github.com/uservoice/work)
+[![Go Report Card](https://goreportcard.com/badge/github.com/uservoice/work)](https://goreportcard.com/report/github.com/uservoice/work)
 
 
 This is the in-progress repo for gocraft/work rewrite.
@@ -33,5 +33,5 @@ This is the in-progress repo for gocraft/work rewrite.
     BenchmarkWorkerRunJob/work_v1_100000-8    	       1	17515722574 ns/op
     BenchmarkWorkerRunJob/work_v2_100000-8    	       1	1502468637 ns/op
     PASS
-    ok  	github.com/taylorchu/work	87.901s
+    ok  	github.com/uservoice/work	87.901s
     ```

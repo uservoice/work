@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 // InvalidPayload discards a job if it has decode error.

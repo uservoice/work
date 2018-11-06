@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 // Func defines job uniqueness.

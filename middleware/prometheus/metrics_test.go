@@ -7,7 +7,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 func TestHandleFuncMetrics(t *testing.T) {

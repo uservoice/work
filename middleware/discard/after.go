@@ -3,7 +3,7 @@ package discard
 import (
 	"time"
 
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 // After discards a job if it is already stale.

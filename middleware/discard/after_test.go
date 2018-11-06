@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 func TestAfter(t *testing.T) {

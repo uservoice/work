@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/taylorchu/work"
+	"github.com/uservoice/work"
 )
 
 // HandleFuncLogger logs job execution with logrus structured logger.
